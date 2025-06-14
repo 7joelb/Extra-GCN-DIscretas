@@ -1,6 +1,5 @@
-# Extra-GCN-DIscretas
-
-##Extra llevado a cabo por Joel Brenes Vargas
+# Extra-GCN-Discretas
+Extra llevado a cabo por Joel Brenes Vargas
 
 Requisito:
 
